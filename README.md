@@ -5,7 +5,7 @@ Personal Website, developed with the Zeanwork PHP Framework
 
 
 
-As I see the site?
+How I see the site?
 ------------------
 
 Accessing this link: http://josemarluedke.com
