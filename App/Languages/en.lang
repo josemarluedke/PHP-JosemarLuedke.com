@@ -1,0 +1,19 @@
+Bem-vindo = Welcome
+Português_Brasil = Portuguese Brazil
+Inglês = English
+Currículo_em_PDF = Curriculum in PDF
+textHome = I'm Josemar Davi Luedke, live in Parobé (RS/Brazil), working with web systems programming at <a href="http://www.tca.com.br">TCA Informática</a>, I like challenges, and I constantly seek for new technology trends, have an ability to learn things about web programming and I love working in this area. I am also the founder of the open source project Zeanwork (Brazilian PHP Framework). <br /><br />I love working with:<br /> Ruby on Rails, PHP, Python, Django, Linux, CSS, Javascript, Ajax and jQuery.
+Quem_eu_sou = Who I am
+Últimos_tweets = Last tweets
+Contato = Contact
+Home = Home
+textPrincContact = The form below will be sent directly to my e-mail, and so possibly answered.
+Nome = Name
+Mensagem = Message
+Enviar = Send
+Você_deve_preencher_o_campo_nome = You must fill in name
+Você_deve_preencher_o_campo_e-mail = You must fill out the e-mail field
+Por_favor,_informe_um_e-mail_correto = Please enter a correct e-mail
+Você_deve_preencher_o_campo_mensagem = You must fill out the message field
+E-mail_não_enviado = E-mail not sent
+E-mail_foi_enviado = E-mail was sent
