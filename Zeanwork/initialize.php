@@ -132,7 +132,7 @@ if(strcmp('Win', CUR_OS) == 0){
  * Current APP_HOST ex: http://localhost/Zeanwork/
  * @var string
  */
-define('APP_HOST', rtrim(HOST.ltrim(str_replace($documentRoot, null, $path), '/'), '/') . '/');
+define('APP_HOST', rtrim(HOST.ltrim(str_replace($path, null, $documentRoot), '/'), '/') . '/');
 
 /**
  * Pasta para os Log's, apartir do 'ROOT'
